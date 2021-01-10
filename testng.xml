@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Suite">
+	<test thread-count="5" name="Test">
+		<parameter name="name" value="KING" />
+		<parameter name="address" value="4/26,Omr" />
+		<parameter name="city" value="chennai" />
+		<parameter name="code" value="636001" />
+		<parameter name="number" value="1234567890123456" />
+		<parameter name="month" value="07" />
+		<parameter name="year" value="2000" />
+		<parameter name="cname" value="jhon" />
+		<classes>
+			<class name="org.cts.Automate" />
+		</classes>
+	</test> <!-- Test -->
+</suite> <!-- Suite -->

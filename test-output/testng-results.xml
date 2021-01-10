@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="23511" started-at="2021-01-10T14:21:29Z" finished-at="2021-01-10T14:21:52Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="23511" started-at="2021-01-10T14:21:29Z" finished-at="2021-01-10T14:21:52Z">
+      <class name="org.cts.Automate">
+        <test-method status="PASS" signature="beforeClass()[pri:0, instance:org.cts.Automate@13deb50e]" name="beforeClass" is-config="true" duration-ms="12192" started-at="2021-01-10T14:21:29Z" finished-at="2021-01-10T14:21:41Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeClass -->
+        <test-method status="PASS" signature="mainMethod1()[pri:-2, instance:org.cts.Automate@13deb50e]" name="mainMethod1" duration-ms="1889" started-at="2021-01-10T14:21:41Z" finished-at="2021-01-10T14:21:43Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- mainMethod1 -->
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:org.cts.Automate@13deb50e]" name="beforeMethod" is-config="true" duration-ms="0" started-at="2021-01-10T14:21:41Z" finished-at="2021-01-10T14:21:41Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:org.cts.Automate@13deb50e]" name="afterMethod" is-config="true" duration-ms="556" started-at="2021-01-10T14:21:43Z" finished-at="2021-01-10T14:21:43Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="mainMethod2()[pri:-1, instance:org.cts.Automate@13deb50e]" name="mainMethod2" duration-ms="1729" started-at="2021-01-10T14:21:43Z" finished-at="2021-01-10T14:21:45Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- mainMethod2 -->
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:org.cts.Automate@13deb50e]" name="beforeMethod" is-config="true" duration-ms="0" started-at="2021-01-10T14:21:43Z" finished-at="2021-01-10T14:21:43Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:org.cts.Automate@13deb50e]" name="afterMethod" is-config="true" duration-ms="522" started-at="2021-01-10T14:21:45Z" finished-at="2021-01-10T14:21:45Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:org.cts.Automate@13deb50e]" name="beforeMethod" is-config="true" duration-ms="0" started-at="2021-01-10T14:21:45Z" finished-at="2021-01-10T14:21:45Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="mainMethod3(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:org.cts.Automate@13deb50e]" name="mainMethod3" duration-ms="4763" started-at="2021-01-10T14:21:45Z" finished-at="2021-01-10T14:21:50Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[KING]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[4/26,Omr]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[chennai]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[636001]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[1234567890123456]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[07]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[2000]]>
+              </value>
+            </param>
+            <param index="7">
+              <value>
+                <![CDATA[jhon]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- mainMethod3 -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:org.cts.Automate@13deb50e]" name="afterMethod" is-config="true" duration-ms="423" started-at="2021-01-10T14:21:50Z" finished-at="2021-01-10T14:21:51Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="afterClass()[pri:0, instance:org.cts.Automate@13deb50e]" name="afterClass" is-config="true" duration-ms="1348" started-at="2021-01-10T14:21:51Z" finished-at="2021-01-10T14:21:52Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterClass -->
+      </class> <!-- org.cts.Automate -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
